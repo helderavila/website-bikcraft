@@ -1,12 +1,12 @@
 <h1 align="center">
 <br>
-  <img src="YOUR_LOGO_URL" alt="YOUR_PROJECT_NAME" width="120">
+  <img src="https://bikcraft.com/wp-content/themes/bikcraft/img/bikcraft.svg" alt="Bikcraft Logo" width="120">
 <br>
 <br>
-YOUR_PROJECT_NAME
+Bikcraft
 </h1>
 
-<p align="center">A little description about your project</p>
+<p align="center">Bikcraft is a website for a company that sells bicycles.</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -16,8 +16,7 @@ YOUR_PROJECT_NAME
 
 [//]: # (Add your gifs/images here:)
 <div>
-  <img src="IMAGE_1_URL" alt="demo" height="425">
-  <img src="IMAGE_2_URL" alt="demo" height="425">
+  <img src="http://prntscr.com/qcbhhc" alt="demo" height="425">
 </div>
 
 <hr />
