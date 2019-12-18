@@ -16,22 +16,23 @@ Bikcraft
 
 [//]: # (Add your gifs/images here:)
 <div>
-  <img src="http://prntscr.com/qcbhhc" alt="demo" height="425">
+  <img src="https://i.imgur.com/vQlP3la.png" alt="demo" height="425">
 </div>
 
 <hr />
 
 ## Features
 [//]: # (Add the features of your project here:)
-This app features all the latest tools and practices in mobile development!
+This app features all the latest tools and practices in web development!
 
-- ⚛️ **React Js** — A JavaScript library for building user interfaces
-- ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
-- 💹 **Node Js** — A web framework for Node Js
+- 🐘 **Php** — The php was used for contact form
+- ⚛️ **Jquery** — JQuery is an open-sourced JavaScript library that simplifies creation and navigation of web applications
 
 ## Getting started
 
-Describe here the way to use/install your project
+1. Clone this repo using git clone `git@github.com:helderavila/website-bikcraft.git`
+2. Move yourself to the appropriate directory: `cd website-bikcraft`
+3. Open the `index.html`
 
 
 ## License
